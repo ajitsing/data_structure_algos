@@ -1,0 +1,23 @@
+[main] mergeSortTestRunner 1000 (0) exception: trapped!
+[main] mergeSortTestRunner 1000 (0) exception: code 0xC00000FD at 0x4016FF
+[main] mergeSortTestRunner 1000 (0) exception: ax 0x30 bx 0x32 cx 0x452FE0 dx 0x30
+[main] mergeSortTestRunner 1000 (0) exception: si 0x100 di 0x20 bp 0x4530BC sp 0x453008
+[main] mergeSortTestRunner 1000 (0) exception: exception is: STATUS_STACK_OVERFLOW
+[main] mergeSortTestRunner 1000 (0) stack: Stack trace:
+[main] mergeSortTestRunner 1000 (0) stack: frame 0: sp = 0x452BE0, pc = 0x6100A2C3
+[main] mergeSortTestRunner 1000 (0) stack: frame 1: sp = 0x452C1C, pc = 0x776865F9
+[main] mergeSortTestRunner 1000 (0) stack: frame 2: sp = 0x452C40, pc = 0x776865CB
+[main] mergeSortTestRunner 1000 (0) stack: frame 3: sp = 0x452CF0, pc = 0x77686457
+[main] mergeSortTestRunner 1000 (0) stack: frame 4: sp = 0x4530BC, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (0) stack: frame 5: sp = 0x4531A8, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (0) stack: frame 6: sp = 0x453294, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (0) stack: frame 7: sp = 0x453380, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (0) stack: frame 8: sp = 0x45346C, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (0) stack: frame 9: sp = 0x453558, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (0) stack: frame 10: sp = 0x453644, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (0) stack: frame 11: sp = 0x453730, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (0) stack: frame 12: sp = 0x45381C, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (1) stack: frame 13: sp = 0x453908, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (0) stack: frame 14: sp = 0x4539F4, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (0) stack: frame 15: sp = 0x453AE0, pc = 0x4016B5
+[main] mergeSortTestRunner 1000 (0) stack: End of stack trace (more stack frames may be present)

@@ -1,0 +1,43 @@
+TODO
+----
+
+1. Board
+2. Dice
+3. Players
+4. Turns
+5. Rules
+
+
+Board
+-----
+
+int jumps[101]
+
+0 -> start
+Play 1  to  101
+
+
+Dice
+----
+
+Random number genrator->> rand()
+IF (rand() > 32765) ->> CALL rand()
+ELSE (rand() % 6 + 1)
+
+Players
+-------
+
+Circular List < Player >
+
+player name
+player position
+
+Rules
+-----
+
+	1. Start after 6 and go to START
+	2. 6 x 3 ->> go to START
+	3. if dice number is 6 give more chance
+	4. 100 game over
+	5. 100 + ->> no move
+	6. one move at a time

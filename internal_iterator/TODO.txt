@@ -1,0 +1,36 @@
+TODO
+----
+
+		=== Internal itrator ===
+
+struct {
+	int id;
+	char name[20];
+	int salary;
+}Employee;
+
+struct {
+	int size;
+	void * employees;
+}Employees;
+
+Employees* createItrator();
+void (*itrator)(Employee emp);
+void add(Employees * , Employee newEmp);
+Employee findAllBy(matcher);
+void each(Employee* , itrator itrate);
+
+
+
+
+
+		=== External itrator ===
+
+struct {
+	Employees * employees;
+	int position;
+} EmployeeItrator;
+
+EmployeeItrator createItrator(Employees * employees);
+Employee next(EmployeeItrator *it);
+int hasNext(EmployeeItrator *it);

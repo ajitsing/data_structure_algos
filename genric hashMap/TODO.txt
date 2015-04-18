@@ -1,0 +1,43 @@
+TODO
+----
+
+ADT - MAP
+---------
+
+
+struct{
+char name[20];
+char address[40];
+char phoneNumber[]
+}Customer;
+
+struct{
+char phoneNumber[20];
+Customer* customer;
+}Pair;
+
+
+createMap()==>map
+destroyMap()
+put(map,key,value)     isKeyPersent & use get() to get the key
+get(map,key)==>value
+getCount(map)==>count
+remove(map)
+
+
+getkeys(map)==>keys
+
+
+hashing
+-------
+
+A -->65 % 10
+
+    l i n k   l i s t
+ a [][][][][][][][][][]
+ r [][]
+ r [][][]
+ a [][][][][]
+ y [][][][]
+   [][]
+   []

@@ -1,0 +1,29 @@
+TODO
+----
+
+Employee{
+	int id;
+	char name[20];
+	int salary;
+};
+
+treeNode{
+	treeNode* parent;
+	Node* child;
+	Employee employee; 
+};
+
+Node{
+	treeNode* value;
+	struct Node* next;
+};
+
+Tree{
+	treeNode* start;
+};
+
+Tree* createTree();
+void destroyTree(Tree* tree);
+void insertNode(Tree* tree, Employee emp, Employee boss);
+void removeNode(Tree* tree, Employee emp);
+struct treeNode* findNode(Tree* tree, int data);

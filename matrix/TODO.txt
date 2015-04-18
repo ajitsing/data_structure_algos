@@ -1,0 +1,32 @@
+TODO
+----
+
+typedef int* Int
+
+struct{
+	Int* array
+	rowSize
+	columnSize
+} Matrix;
+
+Matrix* createMatrix(row, column)
+void insertItem(row, column, value)
+int getItem(row, column)
+
+
+
+-----------Snake and Ladder-------------->
+
+struct{
+	initial
+	going_to
+} Constraints;
+
+struct{
+	Matrix *matrix;
+	Contraints *snake;
+	Contraints *ladder;
+} Game;
+
+
+

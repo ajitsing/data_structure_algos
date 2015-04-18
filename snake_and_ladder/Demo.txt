@@ -1,0 +1,615 @@
+Enter the name of 0 player
+ajit
+Enter the name of 1 player
+jai
+Enter the name of 2 player
+pranav
+
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 6
+
+ajit can proceed now
+
+ajit is on 0 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 6
+
+jai can proceed now
+
+jai is on 0 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 1
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 1
+
+ajit is on 1 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 5
+
+jai is on 5 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 3
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 1
+
+ajit is on 2 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 2
+
+jai is on 7 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 2
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 6
+
+ajit is on 29 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 4
+
+ajit is on 10 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 6
+
+jai is on 13 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 1
+
+jai is on 39 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 2
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 5
+
+ajit is on 15 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 3
+
+jai is on 42 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 4
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 5
+
+ajit is on 20 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 1
+
+jai is on 43 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 2
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 3
+
+ajit is on 23 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 6
+
+jai is on 49 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 5
+
+jai is on 54 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 5
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 1
+
+ajit is on 24 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 4
+
+jai is on 58 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 2
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 6
+
+ajit is on 30 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 3
+
+ajit is on 10 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 1
+
+jai is on 59 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 5
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 3
+
+ajit is on 13 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 4
+
+jai is on 63 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 5
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 1
+
+ajit is on 39 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 6
+
+jai is on 69 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 3
+
+jai is on 72 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 1
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 5
+
+ajit is on 44 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 4
+
+jai is on 76 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 4
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 2
+
+ajit is on 46 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 6
+
+jai is on 82 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 5
+
+jai is on 87 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 4
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 3
+
+ajit is on 49 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 1
+
+jai is on 88 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 1
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 5
+
+ajit is on 54 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 6
+
+jai is on 94 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 2
+
+jai is on 96 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 1
+
+pranav is on -1 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 5
+
+ajit is on 59 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 3
+
+jai is on 99 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 6
+
+pranav can proceed now
+
+pranav is on 0 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 6
+
+ajit is on 65 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 1
+
+ajit is on 66 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 5
+
+jai is on 99 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 3
+
+pranav is on 3 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 4
+
+ajit is on 34 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 5
+
+jai is on 99 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 3
+
+pranav is on 6 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 1
+
+ajit is on 35 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 4
+
+jai is on 99 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 2
+
+pranav is on 29 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 3
+
+ajit is on 38 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 3
+
+jai is on 99 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 1
+
+pranav is on 30 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 6
+
+ajit is on 44 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 3
+
+ajit is on 47 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 6
+
+jai is on 99 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 4
+
+jai is on 99 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 5
+
+pranav is on 35 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 2
+
+ajit is on 49 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 6
+
+jai is on 99 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 4
+
+jai is on 99 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 2
+
+pranav is on 37 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 6
+
+ajit is on 55 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 1
+
+ajit is on 56 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 5
+
+jai is on 99 position
+=========================================================>
+=========================================================>
+pranav's turn press ENTER to roll the dice
+
+dice number: 3
+
+pranav is on 40 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 6
+
+ajit is on 81 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 6
+
+ajit is on 87 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 6
+
+ajit is on 93 position
+=========================================================>
+=========================================================>
+ajit's turn press ENTER to roll the dice
+
+dice number: 5
+
+ajit is on 98 position
+=========================================================>
+=========================================================>
+jai's turn press ENTER to roll the dice
+
+dice number: 1
+
+Congratulations
+jai won the match

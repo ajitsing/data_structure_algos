@@ -1,0 +1,9 @@
+int main(){
+	fixtureSetup();
+	resetTestCount();
+
+
+	summarizeTestCount();
+	fixtureTearDown();
+	return 0;
+}
